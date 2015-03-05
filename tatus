@@ -1,0 +1,59 @@
+[33mcommit 907bf00fb8212bbd24d9bdcdb48f514e87a578bf[m
+Merge: bcfcf54 e4cee47
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Thu Mar 5 16:18:25 2015 -0400
+
+    Merge branch 'master' into user001
+    
+    Conflicts:
+    	template.html
+
+[33mcommit e4cee47bd26b61500f1c78ad39e109ff79141fa0[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Thu Mar 5 16:09:35 2015 -0400
+
+    Sea agrego el template
+
+[33mcommit bcfcf54779cacdc89f41e3a4c7c046b25708de0f[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Thu Mar 5 16:07:15 2015 -0400
+
+    creamos archivo template.html
+
+[33mcommit 286709cb73a8227eecabfd4b6d97db5d4be0632f[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Thu Mar 5 15:40:17 2015 -0400
+
+    Revert "eliminamos js"
+    
+    This reverts commit 3bc8ed1d580d0778cbbede1df75c989eec0815dc.
+
+[33mcommit 3bc8ed1d580d0778cbbede1df75c989eec0815dc[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Wed Mar 4 17:37:37 2015 -0400
+
+    eliminamos js
+
+[33mcommit f6792fe1a6fe02a3c8bd49960e5d727be0812444[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Wed Mar 4 17:31:25 2015 -0400
+
+    css
+
+[33mcommit 8b769bc5c2c2b7c4ae24fb18054af5ffd9522d53[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Wed Mar 4 17:30:45 2015 -0400
+
+    jss
+
+[33mcommit fe71e788c300cdd70042ebf1358270ee71bb4be4[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Wed Mar 4 17:25:26 2015 -0400
+
+    Agregamos js y modificacmos index.html
+
+[33mcommit b4e52ccb88757a2835b60412e4b7e1e654b42dd7[m
+Author: Viviana Laura Ponce <vivianalaura.ponce@unir.net>
+Date:   Wed Mar 4 17:09:38 2015 -0400
+
+    Subimos home del sitio
